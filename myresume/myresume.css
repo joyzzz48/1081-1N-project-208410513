@@ -1,0 +1,148 @@
+html {
+  padding: 0 1em;
+}
+#resume body {
+  background-color: black;
+  font-family: "Lato", sans-serif;
+  margin: 1em auto;
+  max-width: 50em;
+  height: 52.625em;
+  font-family: "微軟正黑體", sans-serif;
+  border-radius: 10px;
+}
+#section-left {
+  width: 35%;
+  float: left;
+  height: 700px;
+  background-color: #fc7a70;
+  color: #fff;
+  text-align: center;
+}
+#section-left .section {
+  margin-top: 40%;
+  padding: 1em;
+}
+#section-left .section .logo {
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  margin: 0 auto;
+  background: url(../img/S__31907950.jpg);
+  background-size: cover;
+}
+#resume .intro .content {
+  margin-bottom: 20px;
+}
+#contact {
+  margin-top: 40px;
+}
+#rusume h1 {
+  text-decoration: uppercase;
+}
+#section-right {
+  width: 65%;
+  float: right;
+}
+#section-right .section {
+  margin: 0 0 30px 0;
+}
+#resume .wrapper {
+  padding: 2em;
+}
+.fa {
+  margin-right: 15px;
+}
+.wrapper .title {
+  color: #fc7a70;
+  font-size: 1.3em;
+  font-variant: small-caps;
+  letter-spacing: 0.1em;
+  font-weight: bold;
+  border-bottom: 2px solid #f2f2f2;
+}
+a:link {
+  color: #fff;
+  text-decoration: none;
+}
+a:visited {
+  color: #fff;
+  text-decoration: none;
+}
+a:hover {
+  color: #fff;
+  text-decoration: none;
+}
+
+h2 {
+  text-transform: uppercase;
+  font-size: 1em;
+}
+.contact {
+  margin: 0 20px;
+}
+.icon {
+  width: 30%;
+  float: left;
+}
+.def {
+  width: 70%;
+  float: right;
+}
+.listProgram .bar {
+  width: 150px;
+  height: 10px;
+  border: solid 2px #ff7168;
+  border-radius: 5px;
+}
+.listProgram li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 10px;
+}
+.value {
+  height: 100%;
+  width: 60%;
+  background-color: #ff7168;
+}
+.value.p10 {
+  width: 10%;
+}
+
+.value.p20 {
+  width: 20%;
+}
+.value.p30 {
+  width: 30%;
+}
+.value.p40 {
+  width: 40%;
+}
+.value.p50 {
+  width: 50%;
+}
+.value.p60 {
+  width: 60%;
+}
+.value.p70 {
+  width: 70%;
+}
+.value.p80 {
+  width: 80%;
+}
+.value.p90 {
+  width: 90%;
+}
+
+.value.p100 {
+  width: 100%;
+}
+
+.btn {
+  border: solid 3px #ff7168;
+  padding: 5px 20px;
+  margin-right: 10px;
+}
+.fill {
+  background-color: #ff7168;
+}
